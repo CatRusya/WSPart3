@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align:center;
+}
+
+.global-container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;  
+    height: 1605px;
+    background-color: #313131;
+    font-family: Georgia;
+}
+
+.wrapper {
+    width: 100%;   
+    max-width: 960px;
+    height: 1172px;
+    background-color: #ffffff;
+    margin: 0 auto; 
+}
+
